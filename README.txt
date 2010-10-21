@@ -10,7 +10,7 @@ on a specific view.
 Integration
 ===========
 
-By default the HitList behavior is not activated for any content type. The
+By default the hit-list behavior is not activated for any content type. The
 functionality is bound to a marker interface::
 
     Products.HitList.interfaces.IHitListContent
